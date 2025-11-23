@@ -176,7 +176,7 @@ class StudentManager {
 // -------------------------------------------------------
 // 4. Main Execution
 // -------------------------------------------------------
-public class StudentSystemFileHandling {
+public class lab_assignment_4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         StudentManager manager = new StudentManager();
