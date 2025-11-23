@@ -151,7 +151,7 @@ class StudentManager implements RecordActions {
     }
 }
 
-public class StudentManagementSystem {
+public class lab_assignment_2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         StudentManager manager = new StudentManager();
